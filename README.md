@@ -20,11 +20,11 @@ http://m-selig.ae.illinois.edu/props/propDB.html
 
 
 
-*****Inportant NOTE_1: propeller_power.m file includes a "FM" variable.
+*****Important NOTE_1: propeller_power.m file includes a "FM" variable.
 
 FM stands for Figure of Merit and takes values from 0.7 to 1.0
 (Conlisk, A. Modern Helicopter Aerodynamics. Columbus: The Oxio State University)
 
-*****Inportant NOTE_2: propeller_power.m file includes a 0.6 value in line 65. 
+*****Important NOTE_2: propeller_power.m file includes a 0.6 value in line 65. 
 
 This value stands for the the electronics performance. 

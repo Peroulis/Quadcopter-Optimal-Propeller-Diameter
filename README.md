@@ -1,6 +1,11 @@
 # Quadcopter-Optimal-Propeller-Diameter
 
-This code calculates the optimal propeller diameter for a drone - quadcopter.
+In the context of the graduate program 'Mechanical and Aeronautical Engineering' in Patras, Greece, a thesis has been held. This thesis is about the design and build a mUAV - Quadcopter:
+
+link: https://www.researchgate.net/publication/315647771_Design_and_Manufacture_of_a_mUAV_-_Quadcopter
+ResearchGate DOI: 10.13140/RG.2.2.13679.23203
+
+Part of the design process was the research about the optimal propeller diameter of the quadcopter. The following code in Matlab calculates the optimal propeller diameter taking into consideration:
 
 User inputs the additional weights (frame, motor, battery, extra load). 
 Also, the user inputs the battery properties (cells, Ah)
